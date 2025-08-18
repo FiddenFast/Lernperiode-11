@@ -6,8 +6,8 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 ## Grob-Planung
 
 15.08.25
--[x] Netlify HTTPS für finnholle.ch
--[x] Kontaktformular in Webseite implementieren
+- [x] Netlify HTTPS für finnholle.ch
+- [x] Kontaktformular in Webseite implementieren
 
 Reflexion
 Ich habe zuerst ein Kontaktformular auf der Webseite implementiert und dabei MailJS verwendet. Dadurch erhalte ich nun automatisch Benachrichtigungen per E-Mail, sobald jemand das Formular ausfüllt und abschickt. Nach einigen Tests konnte ich sicherstellen, dass die Übertragung zuverlässig funktioniert und alle Eingaben korrekt übermittelt werden.
@@ -17,5 +17,5 @@ Ein weiterer wichtiger Schritt war die Umstellung der gesamten Seite auf HTTPS. 
 Zusammengefasst habe ich also sowohl die Funktionalität erweitert (durch das Kontaktformular mit MailJS) als auch die Sicherheit und Professionalität der Seite gesteigert (durch die erfolgreiche Umstellung auf HTTPS).
 
 22.8.25
--[ ] Autodeploy über Github
--[ ] Design anpassen ausschmücken zb Darkmode
+- [ ] Autodeploy über Github
+- [ ] Design anpassen ausschmücken zb Darkmode
