@@ -9,7 +9,7 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 - [x] Netlify HTTPS für finnholle.ch
 - [x] Kontaktformular in Webseite implementieren
 
-Reflexion
+# Reflexion
 Ich habe zuerst ein Kontaktformular auf der Webseite implementiert und dabei MailJS verwendet. Dadurch erhalte ich nun automatisch Benachrichtigungen per E-Mail, sobald jemand das Formular ausfüllt und abschickt. Nach einigen Tests konnte ich sicherstellen, dass die Übertragung zuverlässig funktioniert und alle Eingaben korrekt übermittelt werden.
 
 Ein weiterer wichtiger Schritt war die Umstellung der gesamten Seite auf HTTPS. Das hat etwas länger gedauert, weil es einige technische Hürden mit Zertifikaten und Serverkonfiguration gab. Nach mehreren Versuchen konnte ich das Problem jedoch lösen. Jetzt wird die Webseite standardmäßig verschlüsselt ausgeliefert, was nicht nur die Sicherheit erhöht, sondern auch Vertrauen bei den Nutzern schafft und die SEO-Bewertung verbessert.
