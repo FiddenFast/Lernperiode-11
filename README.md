@@ -23,12 +23,12 @@ Zusammengefasst habe ich also sowohl die Funktionalität erweitert (durch das Ko
 Ich habe meine Website auf Netlify gehostet und jetzt ein automatisches Deployment über GitHub eingerichtet. Änderungen im Code werden dadurch direkt gebaut und veröffentlicht, was den Prozess deutlich effizienter und professioneller macht. Zusätzlich habe ich das Design angepasst und dabei vor allem einen Dark Mode implementiert. Nutzerinnen und Nutzer können nun selbst entscheiden, ob sie das helle oder dunkle Layout bevorzugen, wobei die Einstellung gespeichert bleibt. Diese Verbesserungen steigern nicht nur die Benutzerfreundlichkeit, sondern zeigen auch, dass ich moderne Web-Development-Methoden praktisch umsetzen und reflektieren kann.
 
 29.8.25
-- [ ] Bewerbung für Opacc schreiben
-- [ ] bewerbung für BSI schreiben
+- [x] Bewerbung für Opacc schreiben
+- [x] bewerbung für BSI schreiben
 
 Bei den Bewerbungen musste ich darauf achten, jedes Schreiben individuell auf das jeweilige Unternehmen abzustimmen. Bei Opacc lag der Fokus auf Business-Software und Cloud-Services, bei BSI auf Banking-Software, CRM und Innovation. Dabei habe ich nicht nur meine technischen Kenntnisse in C#, Webtechnologien und Datenbanken hervorgehoben, sondern auch mein Interesse an den jeweiligen Branchen betont. Wichtig war eine klare Struktur mit Einleitung, Hauptteil und Schluss sowie eine professionelle, präzise Sprache. Diese Arbeit hat mir gezeigt, wie entscheidend eine gute Vorbereitung und das Eingehen auf Firmenwerte sind, um eine überzeugende Bewerbung zu verfassen.
 
 
 12.9.25
-- [ ] 
+- [ ] Bewerbung Zühlke
 - [ ] 
