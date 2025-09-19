@@ -30,5 +30,10 @@ Bei den Bewerbungen musste ich darauf achten, jedes Schreiben individuell auf da
 
 
 12.9.25
-- [ ] Bewerbung Zühlke
-- [ ] 
+- [x] Bewerbung Zühlke schreiben
+- [x] Bewerbung für Swisscom schreiben
+
+19.9.25
+- [ ] Bewerbung für SZKB
+- [ ] Design von Webseite Responsive machen
+- [ ] Webseite mit einem Blog-Bereich erweitern, in dem ich Projekte dokumentiere
