@@ -34,6 +34,8 @@ Bei den Bewerbungen musste ich darauf achten, jedes Schreiben individuell auf da
 - [x] Bewerbung für Swisscom schreiben
 
 19.9.25
-- [ ] Bewerbung für SZKB
-- [ ] Design von Webseite Responsive machen
-- [ ] Webseite mit einem Blog-Bereich erweitern, in dem ich Projekte dokumentiere
+- [x] Bewerbung für SZKB
+- [x] Design von Webseite Responsive machen
+- [x] Webseite mit einem Blog-Bereich erweitern, in dem ich Projekte dokumentiere
+
+Ich habe meine Bewerbung für SZKB erstellt und dabei den Lebenslauf gezielt überarbeitet, indem ich relevante Projekte und Skills ergänzt habe. So entsteht ein klareres Bild meiner technischen Stärken. Zudem habe ich meine Webseite um einen Blog-Bereich erweitert, in dem ich Lernfortschritte und Projekte dokumentiere. Dadurch können Arbeitgeber meine Entwicklung nachvollziehen und meine praktischen Erfahrungen direkt sehen. Mit dieser Kombination aus aktualisiertem Lebenslauf und erweiterter Webseite wirke ich professioneller und kann mich vielseitiger präsentieren.
