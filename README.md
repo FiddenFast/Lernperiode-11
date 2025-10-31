@@ -39,3 +39,11 @@ Bei den Bewerbungen musste ich darauf achten, jedes Schreiben individuell auf da
 - [x] Webseite mit einem Blog-Bereich erweitern, in dem ich Projekte dokumentiere
 
 Ich habe meine Bewerbung für SZKB erstellt und dabei den Lebenslauf gezielt überarbeitet, indem ich relevante Projekte und Skills ergänzt habe. So entsteht ein klareres Bild meiner technischen Stärken. Zudem habe ich meine Webseite um einen Blog-Bereich erweitert, in dem ich Lernfortschritte und Projekte dokumentiere. Dadurch können Arbeitgeber meine Entwicklung nachvollziehen und meine praktischen Erfahrungen direkt sehen. Mit dieser Kombination aus aktualisiertem Lebenslauf und erweiterter Webseite wirke ich professioneller und kann mich vielseitiger präsentieren.
+
+26.9.25
+- [x] Bewerbung für VZ erstellen und absenden
+- [x] Modul 335 Sensoren und Aktoren Auftrag
+- [ ] Hosting Probleme lösen
+
+## Abschluss Reflexion
+In dieser Lernperiode habe ich mein Hauptziel erreicht: die gezielte Vorbereitung auf die Praktikumsbewerbungen. Ich habe nicht nur mehrere hochwertige Bewerbungen erstellt, sondern auch meine persönliche Webseite stark weiterentwickelt. Parallel dazu habe ich meine persönliche Webseite technisch und inhaltlich stark weiterentwickelt. Sie läuft nun über HTTPS, wird automatisch über GitHub auf Netlify deployed und verfügt über ein modernes, responsives Design mit Darkmode. Zusätzlich habe ich einen Blog-Bereich integriert, in dem ich meine Projekte und Lernfortschritte dokumentiere. Dadurch können potenzielle Arbeitgeber meine Entwicklung und technischen Fähigkeiten direkt nachvollziehen. Insgesamt habe ich in dieser Lernperiode viel über Selbstpräsentation, professionelle Webentwicklung und Bewerbungsstrategien gelernt. Ich bin mit meinem Fortschritt sehr zufrieden und möchte meine Webseite künftig weiter ausbauen und meine Bewerbungsunterlagen kontinuierlich verbessern.
